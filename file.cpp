@@ -10,6 +10,12 @@ public:
     cout<<endl;
     cout<<"Addition of two numbs: "<<i+k;
     }
+
+   void sub(){
+  cout<<"Enter two numb to sub: ";
+  cin>>i>>k;
+
+
 };
 int main(){
 A a;
